@@ -1,3 +1,4 @@
 # hello-world
 My first repository on GitHub.
-Much to learn yet.
+
+I am learning iOS app development.
